@@ -2,6 +2,7 @@
 .idea/
 out/
 *.iml
+venv/
 
 # ...even if they are in subdirectories
 #!*/
