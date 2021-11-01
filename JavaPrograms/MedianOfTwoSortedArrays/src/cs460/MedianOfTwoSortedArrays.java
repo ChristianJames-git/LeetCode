@@ -3,6 +3,7 @@ package cs460;
 public class MedianOfTwoSortedArrays {
 
     /*
+     * 10/11/21
      * Finds the median of the two sorted arrays in O(logn) time. n = A.length
      * Assumptions given by professor:
      *      n is power of 2
