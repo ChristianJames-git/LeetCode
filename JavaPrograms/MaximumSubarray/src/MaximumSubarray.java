@@ -23,6 +23,6 @@ public class MaximumSubarray {
         MaximumSubarray a = new MaximumSubarray();
         System.out.println(a.maxSubArray(new int[] {-2,1,-3,4,-1,2,1,-5,4})); // 6 : [4,-1,2,1]
         System.out.println(a.maxSubArray(new int[] {5,4,-1,7,8})); // 23 : [5,4,-1,7,8]
-        System.out.println(a.maxSubArray(new int[] {1}));
+        System.out.println(a.maxSubArray(new int[] {1})); // 1 : [1]
     }
 }
