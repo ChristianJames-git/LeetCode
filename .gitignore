@@ -1,14 +1,7 @@
-# Ignore everything
-*
-
-# But not these files...
-!.gitignore
-!.java
-!.py
-!.cpp
-!.h
-!.c
-# etc...
+# Ignore
+.idea/
+out/
+*.iml
 
 # ...even if they are in subdirectories
 !*/
