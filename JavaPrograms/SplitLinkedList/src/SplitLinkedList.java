@@ -54,6 +54,9 @@ public class SplitLinkedList {
         System.out.println("]");
     }
 
+    /*
+     * 2 test cases. Helper methods instantiate tests and print in neat output format
+     */
     public static void main(String[] args) {
         test1(); // [[1],[2],[3],[],[]]
         test2(); // [[1,2,3,4],[5,6,7],[8,9,10]]
